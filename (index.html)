@@ -10,7 +10,7 @@
 
     <div id="page-intro" class="card active">
         <div class="img-wrapper">
-            <img src="https://i.ibb.co/6R2F8T6F/39048.jpg" alt="Your Picture" class="cat-img">
+            <img src="https://i.ibb.co/5WF6F6wH/Screenshot-2026-05-30-22-03-52-78-1c337646f29875672b5a61192b9010f9.jpg" alt="Your Picture" class="cat-img">
             <span class="heart-badge">👑</span>
         </div>
         <h1>So... I have something to tell you.</h1>
@@ -19,7 +19,7 @@
     </div>
 
     <div id="page-trust" class="card">
-        <img src="https://i.ibb.co/VWVw83gS/39046.jpg" alt="Your Picture" class="cat-img">
+        <img src="https://i.ibb.co/39cv4m8J/IMG-20260523-220754-730.jpg" alt="Your Picture" class="cat-img">
         <p class="subtitle">This isn't something I say lightly—just a feeling from my heart—</p>
         <h2>Do you trust me?</h2>
         <div class="btn-row">
@@ -31,7 +31,7 @@
     <div id="page-choose" class="card">
         <div class="doodle-container">
             <div class="drawing-box" id="drawingBox">
-                <img src="https://i.ibb.co/9HwNBy7K/39047.png" alt="Together Picture" class="main-doodle" id="doodleImg">
+                <img src="https://i.ibb.co/DfcYb93F/1779695307081.png" alt="Together Picture" class="main-doodle" id="doodleImg">
             </div>
         </div>
         <h2>One more thing...</h2>
@@ -43,7 +43,7 @@
     </div>
 
     <div id="page-final" class="card">
-        <img src="https://i.ibb.co/6R2F8T6F/39048.jpg" alt="Your Picture" class="cat-img">
+        <img src="https://i.ibb.co/5WF6F6wH/Screenshot-2026-05-30-22-03-52-78-1c337646f29875672b5a61192b9010f9.jpg" alt="Your Picture" class="cat-img">
         <p class="subtitle">One last thing... this is the most important question I'll ever ask.</p>
         <h2>Will you be mine—today, tomorrow, and forever? 💕</h2>
         <div class="btn-row" id="final-btn-row">
@@ -64,7 +64,7 @@
     </div>
 
     <div id="page-success" class="card">
-        <img src="https://i.ibb.co/VWVw83gS/39046.jpg" alt="Your Picture" class="cat-img">
+        <img src="https://i.ibb.co/39cv4m8J/IMG-20260523-220754-730.jpg" alt="Your Picture" class="cat-img">
         <h1 class="yay-title">YAYYYYY ❤️✨</h1>
         <h2>Now you're officially mine forever 💕</h2>
         <p class="sub-text">This is the beginning of our cutest love story ever 📝🎀</p>
@@ -73,7 +73,7 @@
 
     <div id="page-universe" class="card universe-theme">
         <div class="stitch-frame">
-            <img src="https://i.ibb.co/9HwNBy7K/39047.png" alt="Together Picture" class="universe-img">
+            <img src="https://i.ibb.co/DfcYb93F/1779695307081.png" alt="Together Picture" class="universe-img">
         </div>
         <h2>Every moment with you feels like my favorite universe ✨💫</h2>
         <button class="action-btn-universe" onclick="nextPage('page-letter')">💖 See My Message 💖</button>
